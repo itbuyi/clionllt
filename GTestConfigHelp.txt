@@ -1,11 +1,11 @@
-gtest源码下载地址：
+gtest codes download address：
 
-下载地址：https://github.com/google/googletest
-git 仓库地址：https://github.com/google/googletest.git
+homepage：https://github.com/google/googletest
+git club : https://github.com/google/googletest.git
 
-1. 示例工程MyGTest
-2. 将下载的googletest 代码复制到新建的工程里面，可以只复制googletest部分。示例为将所有代码复制过去。
-3. 修改cmake，将gtest添加到clion工程里面。参考cmake脚本 example_CMakeList.txt
+1. create example project nemaed MyGTest
+2. cpoy googletest codes to MyGTest，only can copy googletest codes dir,
+3. modify CMakeList.txt，add gtest to MyGTest project。example: example_CMakeList.txt
 
 
 
